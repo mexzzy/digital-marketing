@@ -715,7 +715,7 @@ footer{
         margin-left: 0px;
     }
     #map iframe#mapsize{
-        width: auto;
+        width: 300px;
         height: 400px;
     }
 }
