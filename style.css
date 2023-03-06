@@ -710,8 +710,13 @@ footer{
     .letter input{
         width: 100%;
     }
-    #map iframe{
+    #map {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+    #map iframe#mapsize{
         width: auto;
+        height: 400px;
     }
 }
 .icon{
