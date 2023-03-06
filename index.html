@@ -451,6 +451,14 @@
         })
         backToTop.addEventListener('click', () => {
             document.documentElement.scrollTop = 0;
+        });
+
+        let  docTitle = document.title;
+        window.addEventListener('blur', () =>{
+            document.title = "Come Back";
+        })
+        window.addEventListener('focus', () =>{
+            document.title.docTitle;
         })
     </script>
 
