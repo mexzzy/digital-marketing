@@ -179,7 +179,7 @@ nav{
     box-shadow: 1px 1px 10px 1px rgba(128, 128, 128, 0.383);
 }
 .img-1:hover {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./images/img-1.jpg) ;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./img-1.jpg) ;
     color: #fff;
     font-size: 20px;
     font-weight: var(--weight-sm);
@@ -196,7 +196,7 @@ nav{
 }
 
 .img-2:hover{
-    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./images/img-2.jpg) ;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./img-2.jpg) ;
     color: #fff;
     font-size: 20px;
     font-weight: var(--weight-sm);
@@ -213,7 +213,7 @@ nav{
 }
 
 .img-3:hover{
-    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./images/img-3.jpg) ;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./img-3.jpg) ;
     color: #fff;
     font-size: 20px;
     font-weight: var(--weight-sm);
@@ -230,7 +230,7 @@ nav{
 }
 
 .img-4:hover{
-    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./images/img-4.jpg) ;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.785),rgba(0, 0, 0, 0.785)), url(./img-4.jpg) ;
     color: #fff;
     font-size: 20px;
     font-weight: var(--weight-sm);
@@ -246,22 +246,22 @@ nav{
     transform: translateY(0px);
 }
 .img-1{
-    background-image: url(./images/img-1.jpg)  ;
+    background-image: url(./img-1.jpg)  ;
     background-position: center;
     background-repeat: no-repeat;
 }
 .img-2{
-    background-image: url(./images/img-2.jpg) ;
+    background-image: url(./img-2.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
 }
 .img-3{
-    background-image: url(./images/img-3.jpg) ;
+    background-image: url(./img-3.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
 }
 .img-4{
-    background-image: url(./images/img-4.jpg);
+    background-image: url(./img-4.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
