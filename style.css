@@ -635,7 +635,7 @@ button {
 
 .contact-log ul li {
     align-items: center;
-    display: flex;
+    display:inline-block;
    
     gap: 10px;
 }
