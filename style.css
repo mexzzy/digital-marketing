@@ -633,17 +633,16 @@ button {
     font-weight: 400;
 }
 
-.contact-log ul li {
+.contact-log .contact-list {
     align-items: center;
-    display:inline-block;
-    margin-top: 10px;
+    display:flex;
+    flex-direction: column;
     gap: 10px;
+    font-size: var(--unit);
+    
 }
 
-.contact-log ul li i {
-    list-style: none;
-    font-size: 22px;
-}
+
 
 .copy {
     border-top: 1px solid #ffffff70;
