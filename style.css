@@ -636,10 +636,9 @@ button {
 .contact-log .contact-list {
     align-items: center;
     display:flex;
-    flex-direction: column;
     gap: 10px;
     font-size: var(--unit);
-    
+
 }
 
 
