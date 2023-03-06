@@ -648,6 +648,8 @@ button {
 .copy {
     border-top: 1px solid #ffffff70;
     padding: 2% 4%;
+    font-size: var(--unit);
+    text-align: center;
 }
 
 #map {
