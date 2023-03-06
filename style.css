@@ -753,9 +753,10 @@ footer{
 /* map */
 #map {
     margin-top: 20px;
+    margin-left: 56px;
 }
-#map iframe{
+#map iframe#mapsize{
     border-radius: 10px;
-    width: 800px;
+    width: 535px;
     height: 400px;
 }
