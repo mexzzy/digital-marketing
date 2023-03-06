@@ -638,7 +638,6 @@ button {
     display:inline-block;
     margin-top: 10px;
     gap: 10px;
-    align-items: center;
 }
 
 .contact-log ul li i {
